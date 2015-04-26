@@ -1,0 +1,5 @@
+---
+groongatrusty:
+  build: trusty
+  ports:
+   - "80:10041"
